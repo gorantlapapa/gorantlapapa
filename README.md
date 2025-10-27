@@ -15,15 +15,31 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Backend
-- **Java | Spring Boot | Hibernate | RESTful APIs | MySQL | MongoDB**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+</div>
+
 
 #### 🎨 Frontend
-- **HTML | CSS | JavaScript | React | Bootstrap**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+</div>
 
 #### ⚙️ Tools & Platforms
-- **Git | GitHub | Maven | Postman | VS Code | IntelliJ IDEA | Eclipse**
-
----
+<div align="left">
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -37,14 +53,14 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gorantlapapa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="left">
+  <a href="gorantlapapa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
-  <a href="mailto:gorantlapapa@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/gorantlapapa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
-</p>
+</div>
 
 ---
 
