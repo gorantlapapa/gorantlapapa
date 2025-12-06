@@ -24,43 +24,31 @@
 
 
 #### 🎨 Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
+<div> <img src="https://skillicons.dev/icons?i=js" height="35" /> 
+  <img src="https://skillicons.dev/icons?i=react" height="35" /> 
+  <img src="https://skillicons.dev/icons?i=html" height="35" /> 
+  <img src="https://skillicons.dev/icons?i=css" height="35" />
 </div>
 
 #### ⚙️ Tools & Platforms
-<div align="left">
-<img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+<div> <img src="https://skillicons.dev/icons?i=github" height="35" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" /> 
+  <img src="https://skillicons.dev/icons?i=postman" height="35" /> 
 </div>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorantlapapa&show_icons=true&theme=tokyonight" alt="Gorantla Papa GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlapapa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gorantlapapa&show_icons=true&theme=tokyonight" height="170" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlapapa&theme=tokyonight" height="170" /> 
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-<div align="left">
-  <a href="gorantlapapa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/gorantlapapa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<a href="mailto:gorantlapapa@gmail.com"> 
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" /> </a> 
+<a href="https://www.linkedin.com/in/gorantlapapa" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /> </a>
 
 ---
 
