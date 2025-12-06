@@ -53,5 +53,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /> </a>
 
 ---
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933ca8ff33145208b93fcad?variant=dark" alt="roadmap.sh"/></a>
 
 ⭐ **"Code is like humor. When you have to explain it, it’s bad."**
